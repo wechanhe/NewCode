@@ -29,10 +29,10 @@ public:
 	}
 };
 
-int main() {
-	vector<vector<int>> array = { {1,2,3},{4,5,6},{7,8,9} };
-	Solution s;
-	cout<<s.Find(7, array);
-	getchar();
-	return 0;
-}
+//int main() {
+//	vector<vector<int>> array = { {1,2,3},{4,5,6},{7,8,9} };
+//	Solution s;
+//	cout<<s.Find(7, array);
+//	getchar();
+//	return 0;
+//}
