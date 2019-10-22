@@ -49,10 +49,10 @@ struct TreeNode* reConstructBinaryTree(vector<int> pre, vector<int> in)
 	return root;
 }
 
-int main()
+/*int main()
 {
 	vector<int> pre = { 1, 2, 4, 7, 3, 5, 6, 8 };
 	vector<int> in = { 4, 7, 2, 1, 5, 3, 8, 6 };
 	TreeNode* root = reConstructBinaryTree(pre, in);
 	int a = 0;
-}
+}*/
